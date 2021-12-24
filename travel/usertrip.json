@@ -1,0 +1,1 @@
+{"idP":"1","email":"chen@gmail.com","password":"1","username":"chen","age":"25","sex":"F","profession":"student","prefer":{"categories":["Sport","Culture"],"transportation":[{"idT":"1","mode":"Bus"},{"idT":"2","mode":"Metro"}]},"trip":[{"idTrip":"1","type":"business","city":"paris","dateStart":"2021-11-29","duration":"5","budget":"1500"}]}
